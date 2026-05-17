@@ -1,7 +1,7 @@
 # 🌍 About Me
 
 Hey! I'm **Syed Aslam** from **Vijayawada, Andhra Pradesh, India 🇮🇳**,
-but I’ve grown up internationally in the Gulf — specifically in **Muscat, Oman 🇴🇲**.
+but I’ve grown up internationally in the Gulf **Muscat, Oman 🇴🇲**.
 
 Currently pursuing **B.Tech in Computer Science and Engineering** at
 **Visvesvaraya National Institute of Technology (VNIT), Nagpur, Maharashtra**.

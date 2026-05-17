@@ -1,8 +1,7 @@
 # Hey there 👋  
 # I'm Syed Aslam
 
-<img src="[https://media.tenor.com/2roX3uxz_68AAAAC/chill.gif](https://tenor.com/en-GB/view/chill-guy-chill-guy-just-a-chill-guy-relax-gif-1579445140409713118)" width="300"/>
-<img width="192" height="192" alt="chill-guy" src="https://github.com/user-attachments/assets/d4de110e-19a0-4408-9b10-444e6536c55b" />
+<img width="350" alt="chill-guy" src="https://github.com/user-attachments/assets/d4de110e-19a0-4408-9b10-444e6536c55b" />
 ## 🌍 About Me
 
 I'm **Syed Aslam** from **Vijayawada, Andhra Pradesh, India 🇮🇳**  
@@ -23,7 +22,7 @@ Overall just a chill guy who likes building cool stuff and having fun while doin
 - Formula 1 Racing 🏎️
 - Watching Series & Movies 🍿
 - Traveling ✈️
-- Listening to music while pretending life is a movie 🎧
+
 
 ---
 
@@ -31,13 +30,12 @@ Overall just a chill guy who likes building cool stuff and having fun while doin
 
 ### FRIENDS
 
-<img src="[https://media.tenor.com/mZZoOtDcouoAAAAC/friends-tv.gif](https://tenor.com/en-GB/view/friends-friends-tv-friendstv-tvfriends-tv-friends-gif-2971207743533117601)" width="350"/>
+<img width="350" alt="friends-friends-tv" src="https://github.com/user-attachments/assets/0fa6cbce-de91-490b-be23-b7268d7d1411" />
 
 
 ### Brooklyn Nine-Nine
 
-<img src="[https://media.tenor.com/I1x9x8WlxpEAAAAC/brooklyn99-jakeperalta.gif](https://tenor.com/en-GB/view/b99-detective-peralta-brooklyn99-make-face-gif-17622893)" width="350"/><img width="192" height="192" alt="chill-guy" src="https://github.com/user-attachments/assets/716f8029-a726-4a81-8388-a56060ae283c" />
-<img width="192" height="192" alt="chill-guy" src="https://github.com/user-attachments/assets/d996b2d5-b38d-4b56-977d-5209cc39731e" />
+<img width="350" alt="b99-detective-peralta" src="https://github.com/user-attachments/assets/49eb11cf-4f91-477a-a9bb-bd9721a2908c" />
 
 
 ---

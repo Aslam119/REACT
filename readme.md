@@ -1,6 +1,3 @@
-# Hey there 👋  
-
-
 ## 🌍 About Me
 
 I'm **Syed Aslam** from **Vijayawada, Andhra Pradesh, India 🇮🇳**  

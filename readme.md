@@ -1,4 +1,4 @@
-# 🌍 About Me
+# 🥸 About Me
 
 Hey! I'm **Syed Aslam** from **Vijayawada, Andhra Pradesh, India 🇮🇳**,
 but I’ve grown up internationally in the Gulf **Muscat, Oman 🇴🇲**.

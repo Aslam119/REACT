@@ -1,7 +1,7 @@
 # Hey there 👋  
 # I'm Syed Aslam
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/chill.gif" width="300"/>
+<img src="[https://media.tenor.com/2roX3uxz_68AAAAC/chill.gif](https://tenor.com/en-GB/view/chill-guy-chill-guy-just-a-chill-guy-relax-gif-1579445140409713118)" width="300"/>
 
 ## 🌍 About Me
 
@@ -31,13 +31,12 @@ Overall just a chill guy who likes building cool stuff and having fun while doin
 
 ### FRIENDS
 
-<img src="https://media.tenor.com/mZZoOtDcouoAAAAC/friends-tv.gif" width="350"/>
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHEyeDZzbzVka2ZyaDd0NmY3Z2J2aHoyaWQ4NXRmcXR0YmVta3huYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IQCfsZXScpvKhi/giphy.gif
-)
+<img src="[https://media.tenor.com/mZZoOtDcouoAAAAC/friends-tv.gif](https://tenor.com/en-GB/view/friends-friends-tv-friendstv-tvfriends-tv-friends-gif-2971207743533117601)" width="350"/>
+
 
 ### Brooklyn Nine-Nine
 
-<img src="https://media.tenor.com/I1x9x8WlxpEAAAAC/brooklyn99-jakeperalta.gif" width="350"/>
+<img src="[https://media.tenor.com/I1x9x8WlxpEAAAAC/brooklyn99-jakeperalta.gif](https://tenor.com/en-GB/view/b99-detective-peralta-brooklyn99-make-face-gif-17622893)" width="350"/>
 
 ---
 
@@ -72,9 +71,5 @@ skills = [
 | 📚 Academics | Scored **100/100** in 12th Boards Computer Science |
 
 ---
-
-## ✨ Final Vibes
-
-> "Life’s good. We code. We learn. We vibe."
 
 Thanks for stopping by 🚀

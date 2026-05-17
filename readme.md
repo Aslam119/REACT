@@ -1,5 +1,4 @@
 # Hey there 👋  
-# I'm Syed Aslam
 
 
 ## 🌍 About Me

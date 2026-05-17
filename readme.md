@@ -7,7 +7,7 @@ Currently pursuing **B.Tech in Computer Science and Engineering** at
 **Visvesvaraya National Institute of Technology (VNIT), Nagpur, Maharashtra**.
 
 I’m someone who’s always curious and loves exploring new things.
-Right now, I’m mainly interested in **Machine Learning 🤖** and **Deep Learning 🧠**, while also exploring different tech fields and opportunities along the way.
+Right now, I’m mainly interested in **Machine Learning ** and **Deep Learning **, while also exploring different tech fields and opportunities along the way.
 
 Overall, just a chill guy who likes building cool stuff and having fun while doing it 😌
 

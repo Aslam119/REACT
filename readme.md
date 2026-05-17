@@ -17,7 +17,7 @@ Overall, just a chill guy who likes building cool stuff and having fun while doi
 
 # ⚽ Hobbies & Interests
 
-* Playing Football ⚽
+* Playing Football 👟
 * EAFC 🎮
 * Watching Premier League 🏆
 * Formula 1 Racing 🏎️
